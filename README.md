@@ -115,7 +115,8 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 -   Méthodes de lissage et splines.
 -   Analyse statistique de données climatiques.
 
-**Publication associée :** *Climate Dynamics* (2018), « [Estimating daily climatological normals in a changing climate](https://link.springer.com/article/10.1007/s00382-018-4584-6) » Rigal A., Azaïs J.-M., Ribes A. (2019).
+**Publication associée :** *Climate Dynamics* (2019), « [Estimating daily climatological normals in a changing climate](https://link.springer.com/article/10.1007/s00382-018-4584-6) » 
+Rigal A., Azaïs J.-M., Ribes A. (2019).
 
 ### 2. Analyse de la mobilité urbaine
 
@@ -154,7 +155,8 @@ Travail de modélisation visant à reconstruire des séries temporelles de param
 
 ## Publications {#publications}
 
--   **2018 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) » Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
+-   **2018 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) »
+   Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
 -   **2021 — arXiv.** [Impact of the COVID-19 pandemic on bike-sharing uses in two French towns](https://arxiv.org/abs/2206.06286)
 
 ## Enseignement et communication scientifique {#enseignement-et-communication-scientifique}
