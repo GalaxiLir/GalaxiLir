@@ -55,7 +55,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 * Travaux sur l’estimation de normales climatologiques quotidiennes dans un climat changeant.
 <!-- ![Exemple de visualisation de données scientifiques](images/NormAnParistemp1.pdf)-->
 
-![Figure sur les normales climatologiques](images/NormAnParistemp1.png)(images/NormAnParistemp1.pdf)
+![Figure sur les normales climatologiques](images/NormAnParistemp1.png)
 
 *Figure — Comparaison de différentes estimations des normales climatologiques annuelles de température à Paris. Cliquer sur la figure pour consulter le PDF complet.*
 ### Enseignement supérieur — ENAC et École nationale de la météorologie
