@@ -155,7 +155,7 @@ Travail de modélisation visant à reconstruire des séries temporelles de param
 
 ## Publications {#publications}
 
--   **2018 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) »
+-   **2019 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) »
    Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
 -   **2021 — arXiv.** [Impact of the COVID-19 pandemic on bike-sharing uses in two French towns](https://arxiv.org/abs/2206.06286)
 
