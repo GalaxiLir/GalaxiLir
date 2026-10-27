@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio scientifique — mathématiques appliquées, statistiques, R&D et enseignement.">
+  <title>Portfolio scientifique</title>
+
+  <!-- L'ORDRE COMPTE : common.css (variables) AVANT style.css (usage) -->
+  <link rel="stylesheet" href="css/common.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js" defer></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container nav">
+      <a href="#" class="logo">Alix Rigal</a>
+      <nav aria-label="Navigation principale">
+        <ul class="nav-links">
+          <li><a href="#research">Recherche</a></li>
+          <li><a href="#modeling">Modélisation</a></li>
+          <li><a href="#rd">R&amp;D</a></li>
+          <li><a href="#teaching">Enseignement</a></li>
+          <li><a href="#tools">Outils</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  
+  <main>
+    <section class="hero">
+      <div class="container hero-content">
+        <div class="hero-kicker">Mathématiques appliquées · Statistiques · R&amp;D</div>
+        <h1>Modélisation<br>scientifique</h1>
+        <p class="hero-lead">Transformer des problèmes scientifiques complexes en modèles
+           mathématiques et statistiques, en analyses reproductibles et en résultats opérationnels.</p>
+        <button class="button" id="explore-button">Explorer les travaux</button>
+        <a href="#tools" class="button button-secondary">
+        Explorer les outils
+        </a>
+      </div>
+    </section>
+
+    <!-- (sections research / modeling / teaching : reprenez vos
+         cartes existantes à l'identique, seules les cartes R&D changent) -->
+
+    <section id="rd" class="section">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-label">R&amp;D</div>
+          <h2>Des méthodes scientifiques connectées à des problèmes réels.</h2>
+        </div>
+        <div class="cards">
+          <!-- La carte devient un LIEN vers la page de démo -->
+          <article class="card">
+            <h3><a href="pages/projects/reseau-neurones/">Réseau de neurones en direct</a></h3>
+            <p>Rétropropagation du problème XOR, entraînée en temps réel dans le navigateur.
+               </p>
+          </article>
+          <article class="card">
+            <h3>Environnement</h3>
+            <p>Climat, données environnementales et problématiques de pollution.</p>
+          </article>
+          <article class="card">
+            <h3>Imagerie scientifique</h3>
+            <p>Traitement d'image 3D sous FIJI, approches statistiques
+               de données expérimentales.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+    
+    <section id="tools" class="section">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-label">Outils scientifiques</div>
+          <h2>Des méthodes statistiques interactives.</h2>
+          <p>
+            Des applications pour explorer les méthodes de modélisation,
+            analyser les dépendances temporelles et visualiser les résultats.
+          </p>
+        </div>
+    
+        <div class="cards">
+    
+          <!-- Application Shiny : splines et autocorrélation -->
+          <article class="card">
+            <h3>
+              <a href="https://01a1653a-3d22-eb01-cddc-ee9ca5eb3f16.share.connect.posit.cloud"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                Splines &amp; autocorrélation
+              </a>
+            </h3>
+    
+            <p>
+              Application interactive développée avec R et Shiny pour
+              explorer les splines, étudier les structures de dépendance
+              et analyser l'autocorrélation des données.
+            </p>
+    
+            <a href="https://01a1653a-3d22-eb01-cddc-ee9ca5eb3f16.share.connect.posit.cloud"
+               class="button"
+               target="_blank"
+               rel="noopener noreferrer">
+              Ouvrir l'application
+            </a>
+          </article>
+    
+        </div>
+      </div>
+    </section>
+  <main>
+    
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Portfolio scientifique · Mathématiques appliquées · Statistiques · R&amp;D</p>
+    </div>
+  </footer>
+
+</body>
+</html>
