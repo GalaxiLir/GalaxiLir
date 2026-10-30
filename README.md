@@ -8,7 +8,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 ### Ressources et contact : {#ressources-et-contact}
 
--   **CV :** [Consulter (PDF)](assets/CV__Spontane_IR.pdf)
+-   **CV :** [R&D](assets/CV__Spontane_IR.pdf), [Enseignement](assets/CV_Spontané_Enseignement-2.pdf)
 -   **Portefeuille de compétences :** [Consulter (PDF)](assets/portefeuille2competences.pdf)
 -   **Contact :** [[alix.rigal\@transverselab.com](mailto:alix.rigal@transverselab.com){.email}]
 -   **Portfolio scientifique en ligne :** [version évolutive](https://galaxilir.github.io/Portfolio/)
@@ -121,8 +121,7 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 
 **Problématique :** caractériser les évolutions de la mobilité à partir de données de vélos en libre-service.
 
-**Données :** environ 700 stations, avec une résolution temporelle de la minute sur deux ans.
-![Carte de chaleur de l'intensité moyenne des départs de vélos en libre-service à Toulouse, 2019-2020](images/lambda_gam_2Y_contour_All.png)
+**Données :** environ 700 stations, avec une résolution temporelle de la minute sur deux ans. ![Carte de chaleur de l'intensité moyenne des départs de vélos en libre-service à Toulouse, 2019-2020](images/lambda_gam_2Y_contour_All.png)
 
 *Figure : intensité moyenne estimée des départs de vélos en libre-service à Toulouse (par tranche de 5 minutes) sur 2019-2020, avant et après le confinement. L'abscisse représente le jour de la semaine et l'heure de la journée, l'ordonnée la période de l'année (numéro de semaine et mois). L'estimation repose sur un modèle additif généralisé (GAM) qui prend en compte l'effet des jours particuliers (confinement, jours fériés). Le processus de comptage est modélisé par une loi binomiale négative, afin de tenir compte d'une variance qui dépend de la moyenne.*
 
