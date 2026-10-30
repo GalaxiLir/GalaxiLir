@@ -8,6 +8,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 ### Ressources et contact : {#ressources-et-contact}
 
+
 -   **CV :** [R&D](assets/CV__Spontane_IR.pdf), [Enseignement](assets/CV_Spontane_Enseignement.pdf)
 -   **Portefeuille de compétences :** [Consulter (PDF)](assets/portefeuille2competences.pdf)
 -   **Contact :** [[alix.rigal\@transverselab.com](mailto:alix.rigal@transverselab.com){.email}]
