@@ -54,7 +54,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 ![Figure sur les normales climatologiques](images/NormAnParistemp1.png)
 
-*Figure — Comparaison de différentes estimations des normales climatologiques annuelles de température à Paris.*\
+*Figure — Comparaison de différentes estimations des normales climatologiques annuelles de température à Paris.*
 
 ### Enseignement supérieur — ENAC et École nationale de la météorologie
 
@@ -115,14 +115,15 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 -   Méthodes de lissage et splines.
 -   Analyse statistique de données climatiques.
 
-**Publication associée :** *Climate Dynamics* (2019), « [Estimating daily climatological normals in a changing climate](https://link.springer.com/article/10.1007/s00382-018-4584-6) » 
-Rigal A., Azaïs J.-M., Ribes A. (2019).
+**Publication associée :** *Climate Dynamics* (2019), « [Estimating daily climatological normals in a changing climate](https://link.springer.com/article/10.1007/s00382-018-4584-6) » Rigal A., Azaïs J.-M., Ribes A. (2019).
 
 ### 2. Analyse de la mobilité urbaine
 
 **Problématique :** caractériser les évolutions de la mobilité à partir de données de vélos en libre-service.
 
 **Données :** environ 700 stations, avec une résolution temporelle de la minute sur deux ans.
+
+![*Figure : intensité moyenne estimée des départs de vélos en libre-service à Toulouse (par tranche de 5 minutes) sur 2019-2020, avant et après le confinement. L'abscisse représente le jour de la semaine et l'heure de la journée, l'ordonnée la période de l'année (numéro de semaine et mois). L'estimation repose sur un modèle additif généralisé (GAM) qui prend en compte l'effet des jours particuliers (confinement, jours fériés). Le processus de comptage est modélisé par une loi binomiale négative, afin de tenir compte d'une variance qui dépend de la moyenne.*](images/lambda_gam_2Y_contour_All.png)
 
 **Méthodes :**
 
@@ -155,8 +156,7 @@ Travail de modélisation visant à reconstruire des séries temporelles de param
 
 ## Publications {#publications}
 
--   **2019 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) »
-   Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
+-   **2019 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) » Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
 -   **2021 — arXiv.** [Impact of the COVID-19 pandemic on bike-sharing uses in two French towns](https://arxiv.org/abs/2206.06286)
 
 ## Enseignement et communication scientifique {#enseignement-et-communication-scientifique}
