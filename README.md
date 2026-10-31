@@ -8,7 +8,6 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 ### Ressources et contact : {#ressources-et-contact}
 
-
 -   **CV :** [R&D](assets/CV__Spontane_IR.pdf), [Enseignement](assets/CV_Spontane_Enseignement.pdf)
 -   **Portefeuille de compétences :** [Consulter (PDF)](assets/portefeuille2competences.pdf)
 -   **Contact :** [[alix.rigal\@transverselab.com](mailto:alix.rigal@transverselab.com){.email}]
@@ -106,6 +105,8 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 -   Connaissances théoriques sur les réseaux de neurones convolutifs et récurrents, les LSTM, les autoencodeurs, les GAN et les Transformers.
 -   Démonstrateur personnel en cours de développement (hors missions). \## Projets scientifiques et R&D {#projets-scientifiques-et-rd}
 
+## Sélection de travaux {#selection-de-travaux}
+
 ### 1. Estimation de normales climatologiques dans un climat changeant
 
 **Problématique :** estimer des normales climatologiques quotidiennes lorsque le climat évolue et que l’hypothèse de stationnarité doit être remise en question.
@@ -139,6 +140,10 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 ### 3. Plans d’expérience et quantification d’incertitude
 
 Missions de R&D appliquée portant notamment sur la comparaison de protocoles, l’analyse de données expérimentales et la caractérisation de l’incertitude.
+
+![Figure sur la comparaison de 2 protocoles](images/surface_DOE_portfolio.png)
+
+*Figure : probabilité P(A \< B) que l'espérance estimée de la méthode A soit inférieure à celle de la méthode B selon la texture du sol, d'après un modèle additif généralisé mixte. Couleurs froides : méthodes nettement départagées ; teintes claires à chaudes (blanc ≈ 10 %) : incertitude élevée*, à explorer en priorité lors de nouvelles campagnes*. (Données modifiées à des fins d'illustration).*
 
 ### 4. Reconstruction de séries temporelles environnementales
 
@@ -176,7 +181,7 @@ Ce dépôt constitue mon portfolio scientifique et professionnel. Il présente u
 -   [Vue d’ensemble](#vue-densemble-profil-scientifique)
 -   [Parcours professionnel et scientifique](#parcours-professionnel-et-scientifique)
 -   [Compétences](#compétences)
--   [Projets scientifiques et R&D](#projets-scientifiques-et-rd)
+-   [Projets scientifiques et R&D](#selection-de-travaux)
 -   [Publications](#publications)
 -   [Enseignement et communication scientifique](#enseignement-et-communication-scientifique)
 -   [À propos de ce dépôt](#à-propos-de-ce-dépôt)
