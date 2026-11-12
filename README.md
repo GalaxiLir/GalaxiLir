@@ -50,7 +50,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 -   Étude de la déformation du cycle saisonnier dans un climat non stationnaire.
 -   Développement de méthodes de modélisation non paramétrique, notamment à base de splines et de méthodes de lissage.
--   Travaux sur l’estimation de normales climatologiques quotidiennes dans un climat changeant.
+-   Travaux sur l’estimation de normales climatologiques quotidiennes dans un climat changeant. [Thèse en libre accès sur HAL.](https://theses.hal.science/tel-03118539v1)
 
 ![Figure sur les normales climatologiques](images/NormAnParistemp1.png)
 
@@ -103,7 +103,7 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 ### Apprentissage automatique
 
 -   Connaissances théoriques sur les réseaux de neurones convolutifs et récurrents, les LSTM, les autoencodeurs, les GAN et les Transformers.
--   Démonstrateur personnel en cours de développement (hors missions). \## Projets scientifiques et R&D {#projets-scientifiques-et-rd}
+-   Démonstrateur personnel en cours de développement (hors missions).\
 
 ## Sélection de travaux {#selection-de-travaux}
 
@@ -163,6 +163,8 @@ Travail de modélisation visant à reconstruire des séries temporelles de param
 -   SAM 2.
 
 ## Publications {#publications}
+
+-   **Thèse **: [Déformation des cycles saisonniers de variables climatiques](https://theses.hal.science/tel-03118539v1)
 
 -   **2019 — *Climate Dynamics*.** « [Estimating daily climatological normals in a changing climate](https://hal.science/hal-01980565/document) » Rigal A., Azaïs J.-M., Ribes A. (2019). ([poster EGU](https://presentations.copernicus.org/EGU2018/EGU2018-19319_presentation.pdf) )
 
