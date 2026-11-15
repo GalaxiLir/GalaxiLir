@@ -50,8 +50,7 @@ Mon parcours associe recherche académique, projets de R&D, conseil statistique 
 
 -   Étude de la déformation du cycle saisonnier dans un climat non stationnaire.
 -   Développement de méthodes de modélisation non paramétrique, notamment à base de splines et de méthodes de lissage.
--   Travaux sur l’estimation de normales climatologiques quotidiennes dans un climat changeant. 
-[Thèse en libre accès sur HAL.](https://theses.hal.science/tel-03118539v1)
+-   Travaux sur l’estimation de normales climatologiques quotidiennes dans un climat changeant. [Thèse en libre accès sur HAL.](https://theses.hal.science/tel-03118539v1)
 
 ![Figure sur les normales climatologiques](images/NormAnParistemp1.png)
 
@@ -118,6 +117,10 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 -   Méthodes de lissage et splines.
 -   Analyse statistique de données climatiques.
 
+![Figure sur la décomposition du modèel](images/decomposition_bilineaire.png)
+
+**Décomposition bilinéaire de la variabilité interannuelle et saisonnière à partir de données simulées de températures journalières***: Les trois premiers panneaux présentent les composantes estimées : (a) le cycle saisonnier de référence (f(d)), (b) le profil intra-annuel (h(d)), qui décrit la répartition saisonnière de l'effet de la tendance annuelle, et (c) la tendance annuelle centrée (g(t)). Les panneaux (d) et (e) montrent, pour deux années sélectionnées, les cycles annuels observés et la normale estimée par le modèle.*
+
 **Publication associée :** *Climate Dynamics* (2019), « [Estimating daily climatological normals in a changing climate](https://link.springer.com/article/10.1007/s00382-018-4584-6) » Rigal A., Azaïs J.-M., Ribes A. (2019).
 
 ### 2. Analyse de la mobilité urbaine
@@ -126,7 +129,7 @@ Travail récent sur des données d’images 3D représentant plusieurs phases : 
 
 **Données :** environ 700 stations, avec une résolution temporelle de la minute sur deux ans. ![Carte de chaleur de l'intensité moyenne des départs de vélos en libre-service à Toulouse, 2019-2020](images/lambda_gam_2Y_contour_All.png)
 
-*Figure : intensité moyenne estimée des départs de vélos en libre-service à Toulouse (par tranche de 5 minutes) sur 2019-2020, avant et après le confinement. L'abscisse représente le jour de la semaine et l'heure de la journée, l'ordonnée la période de l'année (numéro de semaine et mois). L'estimation repose sur un modèle additif généralisé (GAM) qui prend en compte l'effet des jours particuliers (confinement, jours fériés). Le processus de comptage est modélisé par une loi binomiale négative, afin de tenir compte d'une variance qui dépend de la moyenne.*
+*Intensité moyenne estimée des départs de vélos en libre-service à Toulouse (par tranche de 5 minutes) sur 2019-2020, avant et après le confinement. L'abscisse représente le jour de la semaine et l'heure de la journée, l'ordonnée la période de l'année (numéro de semaine et mois). L'estimation repose sur un modèle additif généralisé (GAM) qui prend en compte l'effet des jours particuliers (confinement, jours fériés). Le processus de comptage est modélisé par une loi binomiale négative, afin de tenir compte d'une variance qui dépend de la moyenne.*
 
 **Méthodes :**
 
@@ -146,7 +149,7 @@ Missions de R&D appliquée portant notamment sur la comparaison de protocoles, l
 
 ![Figure sur la comparaison de 2 protocoles](images/surface_DOE_portfolio.png)
 
-*Figure : probabilité P(A \< B) que l'espérance estimée de la méthode A soit inférieure à celle de la méthode B selon la texture du sol, d'après un modèle additif généralisé mixte. Couleurs froides : méthodes nettement départagées ; teintes claires à chaudes (blanc ≈ 10 %) : incertitude élevée*, à explorer en priorité lors de nouvelles campagnes*. (Données modifiées à des fins d'illustration).*
+*Probabilité P(A \< B) que l'espérance estimée de la méthode A soit inférieure à celle de la méthode B selon la texture du sol, d'après un modèle additif généralisé mixte. Couleurs froides : méthodes nettement départagées ; teintes claires à chaudes (blanc ≈ 10 %) : incertitude élevée*, à explorer en priorité lors de nouvelles campagnes*. (Données modifiées à des fins d'illustration).*
 
 ### 4. Reconstruction de séries temporelles environnementales
 
