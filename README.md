@@ -1,5 +1,11 @@
 # Alix Rigal — Mathématiques appliquées, statistique et R&D
 
+<p align="right">
+
+<img src="https://komarev.com/ghpvc/?username=GalaxiLir&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat-square" alt="Profile views"/>
+
+</p>
+
 > **Portfolio scientifique · Modélisation statistique · Données environnementales et industrielles**
 
 Docteur en mathématiques appliquées, spécialisé en modélisation statistique, je conçois et mets en œuvre des approches quantitatives pour analyser des données complexes, caractériser les incertitudes et répondre à des problématiques scientifiques ou industrielles.
